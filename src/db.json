@@ -1,0 +1,30 @@
+{
+  "icons": [
+    {
+      "id": 1,
+      "icon": "language_icon",
+      "title": "Website",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam maxime omnis voluptas ullam delectus harum! Adipisci ratione cupiditate, unde corporis nihil aspernatur reprehenderit sit nobis impedit nulla dignissimos consectetur est?"
+    },
+    {
+      "id": 2,
+      "icon": "link_icon",
+      "title": "Mobile App",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam maxime omnis voluptas ullam delectus harum! Adipisci ratione cupiditate, unde corporis nihil aspernatur reprehenderit sit nobis impedit nulla dignissimos consectetur est?"
+    },
+    {
+      "id": 3,
+      "icon": "mobile_screen_share_icon",
+      "name": "uxDesign",
+      "title": "Ux-Design",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam maxime omnis voluptas ullam delectus harum! Adipisci ratione cupiditate, unde corporis nihil aspernatur reprehenderit sit nobis impedit nulla dignissimos consectetur est?"
+    },
+    {
+      "id": 4,
+      "icon": "cloud_queen_icon",
+      "name": "socialMedia",
+      "title": "Social-Media",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam maxime omnis voluptas ullam delectus harum! Adipisci ratione cupiditate, unde corporis nihil aspernatur reprehenderit sit nobis impedit nulla dignissimos consectetur est?"
+    }
+  ]
+}
